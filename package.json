@@ -1,0 +1,24 @@
+{
+  "name": "practice-frontend-html-css",
+  "version": "1.0.0",
+  "description": "간단한 프론트엔드(html, css, js) 학습",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psh01100011/practice-frontend-html-css-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/psh01100011/practice-frontend-html-css-js/issues"
+  },
+  "homepage": "https://github.com/psh01100011/practice-frontend-html-css-js#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
